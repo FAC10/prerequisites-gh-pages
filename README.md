@@ -9,7 +9,7 @@ Alice - [Website](https://conchobarmacnessa.github.io/) | [GitHub repo](https://
 Antonio - [Website](https://antoniotrkdz.github.io/) | [GitHub repo](https://github.com/antoniotrkdz/antoniotrkdz.github.io)  
 Finn - [Website](https://finnhodgkin.github.io/) | [GitHub repo](https://github.com/finnhodgkin/finnhodgkin.github.io)  
 Jessica - [Website](https://bo-bok.github.io/) | [GitHub repo](https://github.com/bo-bok/bo-bok.github.io)  
-Joey - [Website](https://joeylouise.github.io/jls-portfolio/) | [GitHub repo](https://joeylouise.github.io/jls-portfolio/)  
+Joey - [Website](https://joeylouise.github.io/jls-portfolio/) | [GitHub repo](https://github.com/joeylouise/jls-portfolio)  
 Lucy - [Website](https://lucyrose93.github.io/) | [GitHub repo](https://github.com/lucyrose93/lucyrose93.github.io)  
 Maja - [Website](https://majakudlicka.github.io./) | [GitHub repo](https://github.com/majakudlicka/majakudlicka.github.io)  
 Martha - [Website](https://smarthutza.github.io/) | [GitHub repo](https://github.com/smarthutza/smarthutza.github.io/)  
